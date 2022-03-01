@@ -1,0 +1,231 @@
+id: PF0880455
+initial_creation_type: input
+source_metadata:
+  title: 'Śāntideva: Bodhicaryāvatāra'
+  language: bo
+  volumes:
+    039d2fff29be4794b1b18047db3ebbd0:
+      title: CIII_Verses 1-20
+      base_file: CIII_Verses 1-20.txt
+      work_id: WB1DE9B26
+    18cdb73ed84742d6a933a8c1f0a3b26e:
+      title: CIII_Verses 21-33
+      base_file: CIII_Verses 21-33.txt
+      work_id: WC8EFCE57
+    780a7fe73191441d9b42c5d80738d967:
+      title: CII_Verses 1-20
+      base_file: CII_Verses 1-20.txt
+      work_id: WB81E5A18
+    f3ad76abb110408790013fe048b7e721:
+      title: CII_Verses 21-40
+      base_file: CII_Verses 21-40.txt
+      work_id: W0376338D
+    582d25d4c94043fb83fad78a235c1cea:
+      title: CII_Verses 41-60
+      base_file: CII_Verses 41-60.txt
+      work_id: WEE43A5B4
+    9a513d9ad7374a5387432521dce0a488:
+      title: CII_Verses 61-66
+      base_file: CII_Verses 61-66.txt
+      work_id: W9B2E55F4
+    f1676f0922ef4cfbabe38f2523ab5f9b:
+      title: CIV_Verses 1-20
+      base_file: CIV_Verses 1-20.txt
+      work_id: W965B449D
+    584c8fe2754345f1bcbfde6e1451651d:
+      title: CIV_Verses 21-40
+      base_file: CIV_Verses 21-40.txt
+      work_id: W1815A08F
+    f5c1f8b630964c93ba94174882e3dd4b:
+      title: CIV_Verses 41-48
+      base_file: CIV_Verses 41-48.txt
+      work_id: W59C90030
+    a0e3514492174baebe991dea781e974c:
+      title: CIX_Verses 1-20
+      base_file: CIX_Verses 1-20.txt
+      work_id: WA0D20ABD
+    a16f5f6bf3684b95a1cc9ed82ef5e8b4:
+      title: CIX_Verses 101-120
+      base_file: CIX_Verses 101-120.txt
+      work_id: WC651D363
+    38d67c3261a0481e861728db4e130089:
+      title: CIX_Verses 121-140
+      base_file: CIX_Verses 121-140.txt
+      work_id: WCAA02A3A
+    0c03a1a36b764b26aa8ba4de99a6f6fa:
+      title: CIX_Verses 141-160
+      base_file: CIX_Verses 141-160.txt
+      work_id: W24330824
+    9ec53bcf1e474da392947cddc31ae902:
+      title: CIX_Verses 161-168
+      base_file: CIX_Verses 161-168.txt
+      work_id: W452F0DA3
+    589dfcdef15d4a65972197aa3ff4037a:
+      title: CIX_Verses 21-40
+      base_file: CIX_Verses 21-40.txt
+      work_id: WA380903E
+    bee79387b4204742a25182eda0e436db:
+      title: CIX_Verses 41-60
+      base_file: CIX_Verses 41-60.txt
+      work_id: WE8442BF7
+    85a82e796c41400a93882dea7c14f8c3:
+      title: CIX_Verses 61-80
+      base_file: CIX_Verses 61-80.txt
+      work_id: WB92E23F6
+    9cda34e3687f4cd09a7ea709a5682a52:
+      title: CIX_Verses 81-100
+      base_file: CIX_Verses 81-100.txt
+      work_id: W86DD931A
+    ef49d8130c544433873044e7ee1d83df:
+      title: CI_Verses 1-20
+      base_file: CI_Verses 1-20.txt
+      work_id: WF57757FE
+    fa2002ad4c13429e8923d317cb65feee:
+      title: CI_Verses 21-36
+      base_file: CI_Verses 21-36.txt
+      work_id: W1C4E8C24
+    2994e0fc88d6403ea657f083708f6af4:
+      title: CVIII_Verses 1-20
+      base_file: CVIII_Verses 1-20.txt
+      work_id: WC58CC45E
+    8662af9d83894b8b996a2473757b2c49:
+      title: CVIII_Verses 101-120
+      base_file: CVIII_Verses 101-120.txt
+      work_id: WAA27C483
+    59a4b4bb9cdc4164aaa35feaaeefe94e:
+      title: CVIII_Verses 121-140
+      base_file: CVIII_Verses 121-140.txt
+      work_id: WCCC45DB6
+    78bcd2c6c738416e8ed7fcbd10b01ec5:
+      title: CVIII_Verses 141-160
+      base_file: CVIII_Verses 141-160.txt
+      work_id: W7AD2EEAA
+    f57f60e893984272a8fe02235652e60b:
+      title: CVIII_Verses 161-180
+      base_file: CVIII_Verses 161-180.txt
+      work_id: W7CFA8AC3
+    27a0be32020d486c900ea4d29a148911:
+      title: CVIII_Verses 181-186
+      base_file: CVIII_Verses 181-186.txt
+      work_id: W67965040
+    a08ff0a0ef594e2cbc87430b5716fa06:
+      title: CVIII_Verses 21-40
+      base_file: CVIII_Verses 21-40.txt
+      work_id: W889996C6
+    59ddee2bc40a4c28a900207d53285b39:
+      title: CVIII_Verses 41-60
+      base_file: CVIII_Verses 41-60.txt
+      work_id: W74AE6464
+    e46b926dbfd04d4d849c2ed6cc054b98:
+      title: CVIII_Verses 61-80
+      base_file: CVIII_Verses 61-80.txt
+      work_id: W85B068D4
+    929c99b680f1445db9643aff28176d52:
+      title: CVIII_Verses 81-100
+      base_file: CVIII_Verses 81-100.txt
+      work_id: WCAA3F619
+    677932e3c9c24152b07a72bf78e45f4e:
+      title: CVII_Verses 1-20
+      base_file: CVII_Verses 1-20.txt
+      work_id: WF99DB9F5
+    6cf3844bf32f498a9e200cb20a5be9c3:
+      title: CVII_Verses 21-40
+      base_file: CVII_Verses 21-40.txt
+      work_id: WF149F979
+    2380c4b66c034c1dbeca9601c4ede7aa:
+      title: CVII_Verses 41-60
+      base_file: CVII_Verses 41-60.txt
+      work_id: W4F66856A
+    88eb1b0f8ee24025ae4a2644333793be:
+      title: CVII_Verses 61-75
+      base_file: CVII_Verses 61-75.txt
+      work_id: W2FE551DC
+    7889b69d98dc4b9889b987a2aeee6532:
+      title: CVI_Verses 1-20
+      base_file: CVI_Verses 1-20.txt
+      work_id: WCCBBECBB
+    80b5c98bfe214bba9e9f6a4117875111:
+      title: CVI_Verses 101-120
+      base_file: CVI_Verses 101-120.txt
+      work_id: W1B666894
+    653b499da02647f59c87765a00b38ad0:
+      title: CVI_Verses 121-134
+      base_file: CVI_Verses 121-134.txt
+      work_id: WD6C7D572
+    854a467234d5400d916333b59f1d597d:
+      title: CVI_Verses 21-40
+      base_file: CVI_Verses 21-40.txt
+      work_id: WE5387E0D
+    6d7561e64af3478ea70bddbc7d7ba2f1:
+      title: CVI_Verses 41-60
+      base_file: CVI_Verses 41-60.txt
+      work_id: W4524F4E2
+    3af83d60052e429da9aada1276434e32:
+      title: CVI_Verses 61-80
+      base_file: CVI_Verses 61-80.txt
+      work_id: WAA58EADE
+    870e37f28ac6472a95cc4404eba1c9a8:
+      title: CVI_Verses 81-100
+      base_file: CVI_Verses 81-100.txt
+      work_id: W43A39423
+    dd9f187426c84e8c85100e03fd9e9a16:
+      title: CV_Verses 1-20
+      base_file: CV_Verses 1-20.txt
+      work_id: W4449A44B
+    8a84d3252780473684530b7ad12439fb:
+      title: CV_Verses 101-109
+      base_file: CV_Verses 101-109.txt
+      work_id: WD490D6A4
+    0dc94b3fd5f04c24b0d3c27a137f66a0:
+      title: CV_Verses 21-40
+      base_file: CV_Verses 21-40.txt
+      work_id: W2FF7A3B7
+    476ffe3403194484adf95b83583a77c6:
+      title: CV_Verses 41-60
+      base_file: CV_Verses 41-60.txt
+      work_id: W82FF5918
+    4ffc2685c31b4daab37ef83f26d93023:
+      title: CV_Verses 61-80
+      base_file: CV_Verses 61-80.txt
+      work_id: WD432FF92
+    d2a5eb26e2ce4c24b65a27253a0920f5:
+      title: CV_Verses 81-100
+      base_file: CV_Verses 81-100.txt
+      work_id: W78DD54A1
+    871a4bfd1cd44cfea377e8129656ba9d:
+      title: CX_Verses 1-20
+      base_file: CX_Verses 1-20.txt
+      work_id: W586C1E97
+    0d6c6ac7b6f44d65a0f65d2718f5e755:
+      title: CX_Verses 21-40
+      base_file: CX_Verses 21-40.txt
+      work_id: WACAA8E55
+    32a873f58aa9488484a24cb4aabfc749:
+      title: CX_Verses 41-58
+      base_file: CX_Verses 41-58.txt
+      work_id: W8AA4B02B
+    51f7288ef0174df693cb9a5e30224b5a:
+      title: Colophon
+      base_file: Colophon.txt
+      work_id: W7B01A43A
+    071923cd955c444aa5cd9e8e7cc12f91:
+      title: Preface
+      base_file: Preface.txt
+      work_id: WB537F463
+    6f9b17da8b6c48c4ab9772641a6df711:
+      title: Title
+      base_file: Title.txt
+      work_id: W0DB23EBF
+  chapter_to_tile:
+    CI: 'Chapter 1: Bodhicittānuśaṃsaḥ'
+    CII: 'Chapter 2: Pāpadeśanā'
+    CIII: 'Chapter 3: Bodhicittaparigraho'
+    CIV: 'Chapter 4: Bodhicittāpramādo'
+    CV: 'Chapter 5: Saṃprajanyarakṣaṇaḥ'
+    CVI: 'Chapter 6: Kṣāntipāramitā'
+    CVII: 'Chapter 7: Vīryapāramitā'
+    CVIII: 'Chapter 8: Dhyānapāramitā'
+    CIX: 'Chapter 9: Prajñāpāramitā'
+    CX: 'Chapter 10: Pariṇāmanā'
+created_at: '2022-03-01T23:15:47.044960'
+last_modified_at: '2022-03-01T23:15:47.044968'
